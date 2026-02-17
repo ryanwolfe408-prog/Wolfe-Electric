@@ -34,7 +34,7 @@ The contact form uses client-side validation only. To receive submissions:
 2. **Netlify Forms** – Add `netlify` to the form tag and deploy to Netlify; no backend needed.
 3. **Your own backend** – Point `action` to your API or server and handle POST there.
 
-Replace the placeholder phone number `(555) 123-4567` and email `info@wolfeelectric.com` with your real contact details in all HTML files.
+Contact: phone 408-614-4375, email jason@wolfeelectriccompany.com.
 
 ## Assets and images
 
