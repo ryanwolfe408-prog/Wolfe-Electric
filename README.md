@@ -1,11 +1,11 @@
 # Wolfe Electric
 
-A modern, responsive marketing website for **Wolfe Electric**, a residential electrical services company. Built with HTML, CSS, and JavaScript. Color scheme: blue, white, and black.
+A modern, responsive marketing website for **Wolfe Electric**, a residential and commercial electrical services company. Built with HTML, CSS, and JavaScript. Color scheme: blue, white, and black.
 
 ## Contents
 
 - **Home** – Hero, featured services, why choose us, CTAs
-- **Services** – Full list of residential electrical services with descriptions
+- **Services** – Full list of residential and commercial electrical services with descriptions
 - **About** – Company story and licensing
 - **Contact** – Contact form, phone, email, service area
 
@@ -36,10 +36,10 @@ The contact form uses client-side validation only. To receive submissions:
 
 Replace the placeholder phone number `(555) 123-4567` and email `info@wolfeelectric.com` with your real contact details in all HTML files.
 
-## Assets
+## Assets and images
 
+- **Service and hero images** are currently loaded from Unsplash (royalty-free). You can replace them with your own photos by saving files in `assets/` and updating the `src` and `style="--hero-image: ..."` / `--page-hero-image` values in the HTML.
 - Add your logo as `assets/logo.svg` or `assets/logo.png` and reference it in the header if you prefer an image logo instead of text.
-- Add a hero image in `assets/` and reference it in the hero section if desired.
 
 ## Browser support
 
